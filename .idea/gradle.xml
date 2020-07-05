@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Coffee Machine/task" />
+            <option value="$PROJECT_DIR$/Problems/A simple calculator" />
+            <option value="$PROJECT_DIR$/Problems/Account and its owner" />
+            <option value="$PROJECT_DIR$/Problems/Balance management" />
+            <option value="$PROJECT_DIR$/Problems/Boxes" />
+            <option value="$PROJECT_DIR$/Problems/Boys in a sport class" />
+            <option value="$PROJECT_DIR$/Problems/Bus tour" />
+            <option value="$PROJECT_DIR$/Problems/Calculating factorials" />
+            <option value="$PROJECT_DIR$/Problems/Check if an array contains two numbers" />
+            <option value="$PROJECT_DIR$/Problems/Check the value" />
+            <option value="$PROJECT_DIR$/Problems/Danger levels" />
+            <option value="$PROJECT_DIR$/Problems/Days of week" />
+            <option value="$PROJECT_DIR$/Problems/Direction" />
+            <option value="$PROJECT_DIR$/Problems/Even or odd" />
+            <option value="$PROJECT_DIR$/Problems/Find the max of three numbers" />
+            <option value="$PROJECT_DIR$/Problems/Geometric cube" />
+            <option value="$PROJECT_DIR$/Problems/Groundhogs at a party" />
+            <option value="$PROJECT_DIR$/Problems/In a box" />
+            <option value="$PROJECT_DIR$/Problems/Maximum element divisible by four" />
+            <option value="$PROJECT_DIR$/Problems/Patient needs a doctor" />
+            <option value="$PROJECT_DIR$/Problems/Profit" />
+            <option value="$PROJECT_DIR$/Problems/Project constants and methods" />
+            <option value="$PROJECT_DIR$/Problems/Queens" />
+            <option value="$PROJECT_DIR$/Problems/Shape" />
+            <option value="$PROJECT_DIR$/Problems/Simulating a clock" />
+            <option value="$PROJECT_DIR$/Problems/Squares of natural numbers" />
+            <option value="$PROJECT_DIR$/Problems/Symmetrical number" />
+            <option value="$PROJECT_DIR$/Problems/The army of units" />
+            <option value="$PROJECT_DIR$/Problems/The integer barrier" />
+            <option value="$PROJECT_DIR$/Problems/The product of numbers from a to b" />
+            <option value="$PROJECT_DIR$/Problems/The sequence" />
+            <option value="$PROJECT_DIR$/Problems/The sign of a number" />
+            <option value="$PROJECT_DIR$/Problems/The sum of array elements" />
+            <option value="$PROJECT_DIR$/Problems/The sum of integers from a to b" />
+            <option value="$PROJECT_DIR$/Problems/Too many cats" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
